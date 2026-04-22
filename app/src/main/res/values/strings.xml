@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">GoogleLens</string>
+    <string name="app_name">Lens AI</string>
+    <string name="snap">Capture</string>
+    <string name="gallery">Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="get_results">Get Results</string>
+    <string name="history_title">History</string>
+    <string name="no_image">No image selected. Snap or pick one to begin.</string>
+    <string name="select_mode">Select Analysis Mode</string>
+    <string name="mode_labels">Objects</string>
+    <string name="mode_text">Text (OCR)</string>
+    <string name="mode_barcode">Barcode / QR</string>
+    <string name="copy">Copy</string>
+    <string name="open_link">Open Link</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="detected_objects">Detected Objects</string>
+    <string name="web_results">Web Results</string>
+    <string name="extracted_text">Extracted Text</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="empty_history">No history yet. Start analyzing images!</string>
+    <string name="error_no_image">Please capture or select an image first.</string>
+    <string name="error_analysis">Analysis failed. Please try again.</string>
+    <string name="error_network">Network error. Check your connection.</string>
+    <string name="confidence">Confidence: %1$.0f%%</string>
+    <string name="search_query">Searching for: %1$s</string>
+    <string name="copied">Copied to clipboard</string>
 </resources>
